@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.submitButton {
+  width: 60px;
+  height: 40px;
+}
+
+.note {
+  border: 1px solid black;
+  margin: 5px;
+}
+.deleteButton {
+  width: 40px;
+  height: 30px;
+  margin-left: 10px;
+}
+
+.trashcanImage {
+  width: 20px;
+  height: 20px;
+}
+
+.editButton {
+  width: 40px;
+  height: 30px;
+  margin-left: 10px;
+}
+
+.penImage {
+  width: 20px;
+  height: 20px;
+}
