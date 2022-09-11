@@ -13,7 +13,7 @@ function App() {
   // JSON.parse(noteId)
   function submitNote() {
     if (!currentNote || !subject) {
-      alert("Please write a note");
+      alert("Make a note");
     } else {
       var temp = notesList;
       temp.push({ id: noteId, subject: subject, note: currentNote });
